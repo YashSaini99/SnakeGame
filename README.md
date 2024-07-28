@@ -1,6 +1,6 @@
 # Snake Game
 
-This is a simple Snake game implemented in C++ that can be played in the terminal. The game includes basic functionalities such as snake movement and food generation,.
+This is a simple Snake game implemented in C++ that can be played in the terminal. The game includes basic functionalities such as snake movement and food generation.
 
 ## Features
 
